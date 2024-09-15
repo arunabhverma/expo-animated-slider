@@ -4,13 +4,14 @@ This project demonstrates a custom iOS Control Center style slider, built using 
 
 Check out the slider in action 👇:
 
+| Android                                                                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------|
+| <video src="https://github.com/user-attachments/assets/55fb297b-8aab-4f41-806c-78ff3a8b6835" /> |
+
 | iOS                                                                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------|
 | <video src="https://github.com/user-attachments/assets/8dc599ed-1f51-4db3-b62c-ff95ab7be500" /> |
 
-| Android                                                                                                                        |
-|--------------------------------------------------------------------------------------------------------------------------------|
-| <video src="https://github.com/user-attachments/assets/55fb297b-8aab-4f41-806c-78ff3a8b6835" /> |
 
 
 
